@@ -5,7 +5,7 @@ Introduction
 ------------
 [Nimble Quest](https://itunes.apple.com/us/app/nimble-quest/id583638819) ia a great and addictive game. Lead a conga line of heroes to glory against hordes of enemies across an endless number of stages.
 
-However, I am done with the fxxking expensive respawning. It costs me 2^n crystals each time to revive without lost current progress. Here comes the trainer! Plug the USB cable and run the trainer, you are the god!
+However, I am done with the fxxking expensive respawning. It costs me 2^n crystals each time to revive without lost current progress. Here comes the trainer! Plug the USB cable and run the trainer, you are the god! **No jailbreak required!!**
 
 *By the way, sorry for Windows and Android users. lol*
 
