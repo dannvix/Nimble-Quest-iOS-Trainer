@@ -7,18 +7,18 @@ Introduction
 
 However, I am done with the fxxking expensive respawning. It costs me 2^n crystals each time to revive without lost current progress. Here comes the trainer!
 
-By the way, sorry for Windows and Android users. lol
+*By the way, sorry for Windows and Android users. lol*
 
 
 Screenshot (God Mode)
 ---------------------
 ![Nimble Quest god mode screenshot](https://raw.github.com/dannvix/Nimble-Quest-iOS-Trainer/master/god-mode-screenshot.png)
-The copyright of the screenshots belongss to all the original authors.
+The copyright of the screenshots belongs to all the original authors.
 
 
 Before You Jump
 ---------------
-* **consider support the author for such great game!** purchase some items inside the game :)
+* **please consider to support the author for great games!** just purchase something inside the game :)
 * this tool uses undocumented APIs, which might be harmful to your device, and I'm not responsible
 
 
