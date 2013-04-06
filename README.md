@@ -12,7 +12,7 @@ By the way, sorry for Windows and Android users. lol
 
 Screenshot (God Mode)
 ---------------------
-![Nimble Quest god mode screenshot](https://raw.github.com/dannvix/Nimble-Quest-iOS-Trainer/god-mode-screenshot.png)
+![Nimble Quest god mode screenshot](https://raw.github.com/dannvix/Nimble-Quest-iOS-Trainer/master/god-mode-screenshot.png)
 
 
 Before You Jump
@@ -44,3 +44,13 @@ How to CHEAT
 4. `./nimble-quest-trainer [-gems <num>] [-crystals <num>] [-unlockHeroes yes] [-godMode yes]`
     - example: `./nimble-quest-trainer -gems 9999 -crystals 99 -unlockHeroes yes`
     - `-godMode yes` unlocks and upgrade all heros and powerups, **this actually makes the game boring**
+
+
+Acknowledgements
+----------------
+* Thanks to Jeff Liang (@tristero) for the [MobileDeviceAccess](https://bitbucket.org/tristero/mobiledeviceaccess) library
+
+
+License
+-------
+MIT
